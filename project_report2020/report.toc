@@ -1,0 +1,21 @@
+\select@language {english}
+\contentsline {chapter}{Abstract}{ii}{section*.1}
+\contentsline {chapter}{Table of Contents}{iii}{section*.2}
+\contentsline {chapter}{List of Figures}{iv}{section*.3}
+\contentsline {chapter}{List of Tables}{1}{section*.4}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motivation}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Objectives}{2}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Methodology}{2}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Applications}{2}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Advantages and Disadvantages}{2}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Organisation of the Report}{3}{subsection.1.1.5}
+\contentsline {subsubsection}{IPTV}{3}{section*.5}
+\contentsline {subsubsection}{NXP\_TV550}{3}{section*.6}
+\contentsline {subsection}{\numberline {1.1.6}Software tools available}{3}{subsection.1.1.6}
+\contentsline {subsubsection}{VNC}{3}{section*.7}
+\contentsline {subsection}{\numberline {1.1.7}Project Organization}{3}{subsection.1.1.7}
+\contentsline {subsection}{\numberline {1.1.8}Project Execution}{4}{subsection.1.1.8}
+\contentsline {chapter}{References}{5}{section*.9}
+\contentsline {chapter}{Appendices}{6}{section*.10}
+\contentsline {appendix}{\chapternumberline {A}ATMega 8}{6}{chapter.A}
